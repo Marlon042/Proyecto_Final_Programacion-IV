@@ -1,4 +1,5 @@
 
+![CapturaProyecto](https://github.com/Marlon042/Proyecto-Programaci-n-IV/assets/127366345/e132c8ab-2640-4b94-825c-881d39a588b0)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
