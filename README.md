@@ -1,12 +1,21 @@
-
 ![CapturaProyecto](https://github.com/Marlon042/Proyecto-Programaci-n-IV/assets/127366345/e132c8ab-2640-4b94-825c-881d39a588b0)
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Proyecto Final Programación IV: Gestión de Repuestos para Buses
+
+Este proyecto es una aplicación web desarrollada con Next.js que permite la gestión y registro de repuestos para buses. Los usuarios pueden visualizar y administrar diferentes categorías de repuestos, como motor, carrocería, transmisión y llantas.
+
+**Características principales:**
+- Registro y edición de repuestos con información detallada (nombre, categoría, costo, cantidad, etc).
+- Visualización en tiempo real de repuestos disponibles y categorías, integrando Firebase como base de datos.
+- Interfaz sencilla para agregar, modificar y eliminar repuestos.
+- Estadísticas de inventario (cantidad de repuestos, disponibles, categorías, unidades).
+- Organización por categorías para facilitar la búsqueda y mantenimiento de los buses.
+
+Ideal para empresas o talleres que requieren llevar un control actualizado de los repuestos y su inventario.
 
 ## Getting Started
 
 First, run the development server:
-
 
 ```bash
 
